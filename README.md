@@ -10,4 +10,5 @@ To access the web app on localdevice enter command "npm start" .
 To access the database of web application:
 # Ec2 ->  Instances -> Connect to instance -> EC2 Instance Connect -> Connect
 The data stored in the app can be reflected in the AWS database . 
+ ![image](https://user-images.githubusercontent.com/93441964/170873391-700336fc-47d3-44cc-b36a-018f31998d35.png)
 
